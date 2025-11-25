@@ -2,7 +2,7 @@
   "name": "avaliador-vacinal",
   "version": "0.1.0",
   "private": true,
-"homepage": "https://SparxScary.github.io/avaliador-vacinal",
+"homepage": "https://drphelipesa.github.io/avaliador-vacinal",
   "dependencies": {
     "@radix-ui/react-alert-dialog": "^1.1.1",
     "@testing-library/jest-dom": "^5.17.0",
