@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/avaliador-vacinal/static/css/main.bad62bb9.css",
-    "main.js": "/avaliador-vacinal/static/js/main.d75c2cc6.js",
+    "main.css": "/avaliador-vacinal/static/css/main.c2b1ff3f.css",
+    "main.js": "/avaliador-vacinal/static/js/main.751a3e4b.js",
     "static/js/453.cba9adf9.chunk.js": "/avaliador-vacinal/static/js/453.cba9adf9.chunk.js",
     "index.html": "/avaliador-vacinal/index.html",
-    "main.bad62bb9.css.map": "/avaliador-vacinal/static/css/main.bad62bb9.css.map",
-    "main.d75c2cc6.js.map": "/avaliador-vacinal/static/js/main.d75c2cc6.js.map",
+    "main.c2b1ff3f.css.map": "/avaliador-vacinal/static/css/main.c2b1ff3f.css.map",
+    "main.751a3e4b.js.map": "/avaliador-vacinal/static/js/main.751a3e4b.js.map",
     "453.cba9adf9.chunk.js.map": "/avaliador-vacinal/static/js/453.cba9adf9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.bad62bb9.css",
-    "static/js/main.d75c2cc6.js"
+    "static/css/main.c2b1ff3f.css",
+    "static/js/main.751a3e4b.js"
   ]
 }
